@@ -25,7 +25,7 @@ SECRET_KEY = 'g-s$rzmni112c$8z=0fa(s2k-73)#app@q!v8o*g9$dj9n-vn2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["toss-bank-local.herokuapp.com"]
 
 
 # Application definition
